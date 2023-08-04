@@ -6,4 +6,19 @@
     <color name="button2">#FFDD6565</color>
 
     <color name="custom_bg">#B08FFB</color>
+
+    <color name="purple_200">#FE724C</color>
+    <color name="purple_500">#FE724C</color>
+    <color name="purple_700">#FE724C</color>
+    <color name="teal_200">#FFC529</color>
+    <color name="teal_700">#FFC529</color>
+
+    <color name="red">#EC1F1F</color>
+
+
+    <color name="yellow">#FFC529</color>
+    <color name="orange">#FE724C</color>
+    <color name="blackLite">#272D2F</color>
+    <color name="grey_font">#656565</color>
+    <color name="whiteLite">#D7D7D7</color>
 </resources>
